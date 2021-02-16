@@ -1,0 +1,20 @@
+body {
+  background-color: #4e2e53;
+}
+
+.footer {
+  background-color: #d3dadb;
+  padding: 10px;
+  width: 100%;
+  bottom: 0;
+  position:fixed;
+}
+@media (max-height:800px){
+  footer { 
+      position: static;
+      background-color: #d3dadb;
+      padding: 10px;
+      width: 100%;
+      bottom: 0; 
+  }
+}    

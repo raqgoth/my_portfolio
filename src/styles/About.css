@@ -1,0 +1,22 @@
+.bquilla {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: url('https://images.pexels.com/photos/1559699/pexels-photo-1559699.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    width: 100%;
+    height: 100%;
+    opacity : 0.2;
+}
+.header-about{
+text-align: center;
+font-size: 30px;
+font-family: 'Merriweather', serif;
+padding-top: 20px;
+padding-bottom: 40px;
+color:navy;
+}
+
+.card-text {
+color:grey;
+}
