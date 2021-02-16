@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink, Router } from "react-router-dom";
-import Nav from '../components/Nav'
+import Nav from '../Components/Nav'
 import '../styles/About.css'
 
 const About = () => {

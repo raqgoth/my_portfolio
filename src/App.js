@@ -1,4 +1,4 @@
-import Router from './components/Router'
+import Router from './Components/Router'
 import './styles/Nav.css'
 import './styles/App.css'
 
