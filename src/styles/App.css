@@ -1,5 +1,8 @@
 body {
-  background-color: #4e2e53;
+  background-image: url("https://i.imgur.com/oSBqJgW.jpeg");
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover; 
 }
 
 .footer {
