@@ -6,7 +6,7 @@ const NavBar = (props) => {
     return (
         <div>   
             <nav className="navbar navbar-expand-lg navbar-light bg-light">
-            <div class="container-md">
+            <div className="container-md colors">
                     <NavLink classname="navbar-brand" exact to='/'>
                         Home
                     </NavLink>
@@ -22,8 +22,8 @@ const NavBar = (props) => {
                     <NavLink classname="navbar-brand" exact to = '/contact'>
                         Contact 
                     </NavLink>
-                  
-                </div>
+                    </div>
+                
               
                 </nav>
 
